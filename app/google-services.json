@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181274802266",
+    "firebase_url": "https://smart-home11-cb6cf-default-rtdb.firebaseio.com",
+    "project_id": "smart-home11-cb6cf",
+    "storage_bucket": "smart-home11-cb6cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181274802266:android:a391f2703836fa9fa34063",
+        "android_client_info": {
+          "package_name": "com.learn.block"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_qi-EthB2C5UJPXBli3vc8_dJLYuWTRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
